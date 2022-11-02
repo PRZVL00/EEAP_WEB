@@ -3,7 +3,7 @@ from django.db import models
 
 from django.contrib.auth.models import AbstractUser
 
-# Create your models here.
+# Create your models here. weh
 
 # class accounts(AbstractUser):
 #     id = models.AutoField(primary_key = True, unique = True)
